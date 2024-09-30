@@ -60,5 +60,21 @@ const course={
 }
 // course.courseInstructor
 
-const{courseInstructor}=course
-console.log(courseInstructor);
+// const{courseInstructor}=course
+// console.log(courseInstructor);
+
+{
+    "name": "Gupteshwar",
+    "coursename":"Js In hindi",
+    "price":"free"
+}
+//randomuser me API
+
+//JSON formatter
+
+// [
+//     {}
+//     {}
+//     {}
+// ]
+
